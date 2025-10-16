@@ -1,0 +1,14 @@
+auto_save: true
+default_shape_color:
+- 0
+- 255
+- 0
+labels:
+- crack
+- broken
+- spot
+- scratch
+- light-leakage
+- blot
+- broken-membrane
+shape_color: auto
