@@ -1,0 +1,13 @@
+names:
+- crack
+- broken
+- spot
+- scratch
+- light-leakage
+- blot
+- broken-membrane
+nc: 7
+path: C:\Users\rishu\Desktop\smartphone-defect-detection\data
+test: splits/test/images
+train: splits/train/images
+val: splits/val/images
